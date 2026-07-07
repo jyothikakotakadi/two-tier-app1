@@ -1,7 +1,4 @@
-$ docker-compose build
-Command 'docker-compose' not found, but can be installed with:
-sudo snap install docker
-jyothika@jtest:~/two-tier-app/two-tier-app
+
 pipeline {
     agent any
 
